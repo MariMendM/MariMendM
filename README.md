@@ -11,14 +11,6 @@ Hi! I am Mariane, born and raised in Brazil and waiting to move to Canada as soo
 
 ---
 
-### Repos
-
-:small_blue_diamond: [cpp-sandox](https://github.com/MariMendM/cpp-sandbox): General purpose codes for c++ language (demonstrating language concepts and some minor apps)
-
-:small_blue_diamond: [cpp-dpatterns](https://github.com/MariMendM/cpp-dpatterns): Design Pattern codes in c++ language
-
-:small_blue_diamond: [devops-sandbox](https://github.com/MariMendM/devops-sandbox): Demos of DevOps culture/tools, using mostly AWS Cloud infrastructure as basis for each project
-
 <!--
 Here are some ideas to get you started:
 
