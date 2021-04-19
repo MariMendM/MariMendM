@@ -9,9 +9,17 @@
 Hi! I am Mariane, born and raised in Brazil and waiting to move to Canada as soon as pandemic reliefs! I will soon provide a nice overview content; for now, you can see my <a href="https://marimendm.github.io/resume/">resume</a> and take a look on my repos!
 </div>
 
-<!--
-**MariMendM/MariMendM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+### Repos
+
+:small_blue_diamond: [cpp-sandox](https://github.com/MariMendM/cpp-sandbox): General purpose codes for c++ language (demonstrating language concepts and some minor apps)
+
+:small_blue_diamond: [cpp-dpatterns](https://github.com/MariMendM/cpp-dpatterns): Design Pattern codes in c++ language
+
+:small_blue_diamond: [devops-sandbox](https://github.com/MariMendM/devops-sandbox): Demos of DevOps culture/tools, using mostly AWS Cloud infrastructure as basis for each project
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,4 +30,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://api.github.com/users/MariMendM/repos
 -->
+
+### Most used Languages
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariMendM&langs_count=6&theme=default&hide_title=true)]()
