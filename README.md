@@ -6,7 +6,7 @@
 
 <div align="justify">
   
-Hi! I am Mariane, born and raised in Brazil and waiting to move to Canada as soon as pandemic reliefs! I will soon provide a nice overview content; for now, you can see my <a href="https://github.com/MariMendM/MariMendM/blob/main/resume.pdf">resume</a> and take a look on my repos!
+Hi! I am Mariane, born and raised in Brazil and waiting to move to Canada as soon as pandemic reliefs! I will soon provide a nice overview content; for now, you can see my <a href="https://marimendm.github.io/MariMendM/">resume</a> and take a look on my repos!
 </div>
 
 ---
