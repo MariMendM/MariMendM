@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-StackExchange-black?style=flat-square&logo=StackExchange&logoColor=white&link=https://stackexchange.com/users/20210570/mari3m/)](https://stackexchange.com/users/20210570/mari3m/)
 [![Linkedin Badge](https://img.shields.io/badge/-Lattes-black?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/7272241501780235/)](http://lattes.cnpq.br/7272241501780235/)
 [![Linkedin Badge](https://img.shields.io/badge/-Duolingo-black?style=flat-square&logo=Duolingo&logoColor=white&link=https://www.duolingo.com/profile/mari3m)](https://www.duolingo.com/profile/mari3m)
+[![Linkedin Badge](https://img.shields.io/badge/-Musescore-black?style=flat-square&logo=Musescore&logoColor=white&link=https://musescore.com/user/35064449)](https://musescore.com/user/35064449)
 
 
 <div align="justify">
