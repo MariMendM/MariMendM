@@ -32,8 +32,3 @@ Another old hobby is music. Since I was very young, I could freely (but carefull
 Finally, the latest of my hobbies is... to read. The idea is to always have a book on my bed side and to read a bit e-v-e-r-y-d-a-y. It can be about pretty much any subject, in any of the languages I can read, but never related to work. Although very welcome, work-related readings are for work/study hours, not for bedtime!
 </p>
 </div>
-
----
-
-### Top Languages in Repositories
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariMendM&langs_count=6&theme=default&hide_title=true)]()
