@@ -32,3 +32,15 @@ Another old hobby is music. Since I was very young, I could freely (but carefull
 Finally, the latest of my hobbies is... to read. The idea is to always have a book on my bed side and to read a bit e-v-e-r-y-d-a-y. It can be about pretty much any subject, in any of the languages I can read, but never related to work. Although very welcome, work-related readings are for work/study hours, not for bedtime!
 </p>
 </div>
+
+***
+
+**What you will find within my repos**
+
+<sub> **Jenkins** (pipeline) :black_small_square: **Ansible** (playbook) :black_small_square: **GitHub** (sparse checkout, webhook) :black_small_square: **Docker** (file, Hub, Swarm, Compose) </sub>
+
+<sub> **AWS CloudFormation** (Metadata, Parameter, Output, Condition, Transform) :black_small_square: **CDK** :black_small_square: **VPC** (Subnet, Route Table, NACL, Security Group, Internet Gateway, NAT Gateway, NAT Instance, EIP) :black_small_square: **EC2** (Instances, Templates, ALB + Listener + TargetGroup, Auto Scaling) :black_small_square: **S3** (Bucket, Bucket Policy) :black_small_square: **CodePipeline** (Source from S3, Source from CodeCommit, Deploy with CodeDeploy, Deploy to ECS) :black_small_square: **CodeCommit** :black_small_square: **CodeBuild** (buildspec) :black_small_square: **CodeDeploy** (appspec) :black_small_square: **IAM** (Users, Groups, Roles, InstanceProfiles, ManagedPolicy, PolicyStatement, AccessKey) :black_small_square: **Systems Manager** (Parameter Store, Run Command, State Manager, Fleet Manager, Documents) :black_small_square: **SNS** (Topic) :black_small_square: **ECR** :black_small_square: **ECS** (Cluster, Service, Task Definition) :black_small_square: **EventBridge** (Rule) :black_small_square: **CloudTrail** (Trail) </sub>
+
+<sub> C++ :black_small_square: PHP :black_small_square: Typescript :black_small_square: JSON :black_small_square: YAML </sub>
+
+<sub> Design Patterns </sub>
