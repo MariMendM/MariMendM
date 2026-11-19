@@ -39,12 +39,14 @@ Finally, the latest of my hobbies is... to read. The idea is to always have a bo
 
 <sub> **Jenkins** (pipeline) :black_small_square: **Ansible** (playbook) :black_small_square: **GitHub** (sparse checkout, webhook) :black_small_square: **Docker** (file, Hub, Swarm, Compose) </sub>
 
-<sub> **AWS CloudFormation** (Metadata Interface, Parameter, Output, Condition, Transform) :black_small_square: **CDK** :black_small_square: **VPC** (Subnet, Route Table, NACL, Security Group, Internet Gateway, NAT Gateway, NAT Instance, EIP) :black_small_square: **EC2** (Instances, Templates, ALB + Listener + TargetGroup, Auto Scaling) :black_small_square: **S3** (Bucket, Bucket Policy) :black_small_square: **CodePipeline** (Source from S3, Source from CodeCommit, Deploy with CodeDeploy, Deploy to ECS) :black_small_square: **CodeCommit** :black_small_square: **CodeBuild** (buildspec) :black_small_square: **CodeDeploy** (appspec) :black_small_square: **IAM** (Users, Groups, Roles, InstanceProfiles, ManagedPolicy, PolicyStatement, AccessKey) :black_small_square: **Systems Manager** (Parameter Store, Run Command, State Manager, Fleet Manager, Documents) :black_small_square: **SNS** (Topic) :black_small_square: **ECR** :black_small_square: **ECS** (Cluster, Service, Task Definition) :black_small_square: **EventBridge** (Rule) :black_small_square: **CloudTrail** (Trail) :black_small_square: **KMS** (Key) :black_small_square: **Bedrock** (AgentCore Runtime/Memory) :black_small_square: **Sagemaker AI** (Jupyter Notebook) </sub>
+<sub> **AWS CloudFormation** (Metadata Interface, Parameter, Output, Condition, Transform) :black_small_square: **CDK** :black_small_square: **VPC** (Subnet, Route Table, NACL, Security Group, Internet Gateway, NAT Gateway, NAT Instance, EIP) :black_small_square: **EC2** (Instances, Templates, ALB + Listener + TargetGroup, Auto Scaling) :black_small_square: **S3** (Bucket, Bucket Policy) :black_small_square: **CodePipeline** (Source from S3, Source from CodeCommit, Deploy with CodeDeploy, Deploy to ECS) :black_small_square: **CodeCommit** :black_small_square: **CodeBuild** (buildspec) :black_small_square: **CodeDeploy** (appspec) :black_small_square: **IAM** (Users, Groups, Roles, InstanceProfiles, ManagedPolicy, PolicyStatement, AccessKey) :black_small_square: **Systems Manager** (Parameter Store, Run Command, State Manager, Fleet Manager, Documents) :black_small_square: **SNS** (Topic) :black_small_square: **ECR** :black_small_square: **ECS** (Cluster, Service, Task Definition) :black_small_square: **EventBridge** (Rule) :black_small_square: **CloudTrail** (Trail) :black_small_square: **KMS** (Key) :black_small_square: **Bedrock** (AgentCore Runtime/Memory/Endpoint) :black_small_square: **Sagemaker AI** (Jupyter Notebook) </sub>
 
 <sub> C++ :black_small_square: PHP :black_small_square: Typescript :black_small_square: JSON :black_small_square: YAML </sub>
 
 <sub> Design Patterns </sub>
 
-**How is documentations organized**
+---
+
+**How is documentation organized**
 
 For the 'awscdk-sandbox' and 'devops-sandbox' repos, each of their folders represents a demo or mini-project. The repos themselves have a root README consolidating briefly the content of the projects, but each folder itself have their own README with expanded information, diagrams, instructions on how to deploy, test etc.
